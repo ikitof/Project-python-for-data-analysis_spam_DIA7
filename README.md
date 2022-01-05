@@ -10,4 +10,7 @@ It also works with the random tree forest and the n_estimator http://127.0.0.1:8
 
 # Notebook
 This notebook contains a data visualisation part, three different sklearn algorithms applied to the dataset to predict classification. A Keras Sequential Neural Network and a mixed solution between ANN and RTF with an accuracy of 96%.
+
+# Powerpoint Presentation
+This powerpoint essentialy is a README, you'll understand our thought process and what we did in detail.
 Thank you for your time.
