@@ -1,5 +1,5 @@
 # About the django API
-#How to lauch
+# How to lauch
 The django file include the django projet and the virtual environnement for python (.env).
 To start the environnement go to the depositery with the project and type .env\Scripts\activate.bat (or source .env\Scripts\activate)
 to launch the project move to the spam directory and type py manage.py runserver or on linux (python manage.py runserver)
